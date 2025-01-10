@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/nafe_al3mri" target="blank"><img src="https://img.shields.io/twitter/follow/nafe_al3mri?logo=twitter&style=for-the-badge" alt="nafe_al3mri" /></a> </p>
 
+- i'm working on [Eclipsear](https://github.com/nafeal3mri/eclipsear)
+
 - 👨‍💻 All of my projects are available at [https://nafe.me](https://nafe.me)
 
 - 💬 Ask me about **laravel, python, celery, rabbimq,flutter**
