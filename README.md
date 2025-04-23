@@ -1,10 +1,14 @@
 <h1 align="center">Hello World 👋, I'm Nafea</h1>
-<h3 align="center">backend developer from HALI</h3>
+<h3 align="center">backend developer, Web assessor from HALI</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafeal3mri" alt="nafeal3mri" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nafe_al3mri" target="blank"><img src="https://img.shields.io/twitter/follow/nafe_al3mri?logo=twitter&style=for-the-badge" alt="nafe_al3mri" /></a> </p>
-
+<p alige="left">
+  <a href="https://credentials.offsec.com/a5f9caa4-e582-4268-ad4a-b53ca9c5f430" target="blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82251066" />
+  </a>
+</p>
 - i'm working on [Eclipsear](https://github.com/nafeal3mri/eclipsear)
 
 - 👨‍💻 All of my projects are available at [https://nafe.me](https://nafe.me)
